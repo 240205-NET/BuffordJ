@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Blogs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <blogId>1</blogId>
+  <datePublished>2024-02-16T00:00:00-07:00</datePublished>
+  <authorName>Jessirae Bufford</authorName>
+  <blogTitle>title 2</blogTitle>
+  <theBlog>more stuff to talk about</theBlog>
+</Blogs>
