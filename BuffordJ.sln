@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blog.App", "Blog.App\Blog.App.csproj", "{B9B6D39E-F743-49E2-96F2-707B681FBAA3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blog.Logic", "Blog.Logic\Blog.Logic.csproj", "{6BABD299-6737-4C3D-8D12-F9A1CB0D3CA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B6D39E-F743-49E2-96F2-707B681FBAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B6D39E-F743-49E2-96F2-707B681FBAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B6D39E-F743-49E2-96F2-707B681FBAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B6D39E-F743-49E2-96F2-707B681FBAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BABD299-6737-4C3D-8D12-F9A1CB0D3CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BABD299-6737-4C3D-8D12-F9A1CB0D3CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BABD299-6737-4C3D-8D12-F9A1CB0D3CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BABD299-6737-4C3D-8D12-F9A1CB0D3CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54B9A6DB-3DAD-47FE-9898-EA5265C6FD7A}
+	EndGlobalSection
+EndGlobal
